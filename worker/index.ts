@@ -307,7 +307,7 @@ app.get("/geosite", async (c) => {
 
 app.get("/", async (c) => {
   // redirect to the GitHub repository
-  return c.redirect("https://github.com/xxxbrian/Surge-Geosite");
+  return c.redirect("https://github.com/M4nk1n/Surge-Geosite");
 });
 
 app.get("/misc/:category/:name", async (c) => {
