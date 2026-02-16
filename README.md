@@ -26,6 +26,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | 17zuoye | https://surge.bojin.co/geosite/17zuoye |
 | 18comic | https://surge.bojin.co/geosite/18comic |
 | 2ch | https://surge.bojin.co/geosite/2ch |
+| 2gis | https://surge.bojin.co/geosite/2gis |
 | 2kgames | https://surge.bojin.co/geosite/2kgames |
 | 36kr | https://surge.bojin.co/geosite/36kr |
 | 4399 | https://surge.bojin.co/geosite/4399 |
@@ -66,6 +67,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | agilebits | https://surge.bojin.co/geosite/agilebits |
 | agora | https://surge.bojin.co/geosite/agora |
 | aiqicha | https://surge.bojin.co/geosite/aiqicha |
+| airbnb | https://surge.bojin.co/geosite/airbnb |
 | airchina | https://surge.bojin.co/geosite/airchina |
 | airwick | https://surge.bojin.co/geosite/airwick |
 | aisiku | https://surge.bojin.co/geosite/aisiku |
