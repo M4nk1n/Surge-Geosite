@@ -90,6 +90,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | android | https://surge.bojin.co/geosite/android |
 | anexia | https://surge.bojin.co/geosite/anexia |
 | anime | https://surge.bojin.co/geosite/anime |
+| anker | https://surge.bojin.co/geosite/anker |
 | annas-archive | https://surge.bojin.co/geosite/annas-archive |
 | anon-v | https://surge.bojin.co/geosite/anon-v |
 | anthropic | https://surge.bojin.co/geosite/anthropic |
@@ -1250,6 +1251,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | tld-!cn | https://surge.bojin.co/geosite/tld-!cn |
 | tld-cn | https://surge.bojin.co/geosite/tld-cn |
 | tld-opennic | https://surge.bojin.co/geosite/tld-opennic |
+| tld-ru | https://surge.bojin.co/geosite/tld-ru |
 | tmdb | https://surge.bojin.co/geosite/tmdb |
 | tmtpost | https://surge.bojin.co/geosite/tmtpost |
 | tokyo-sports | https://surge.bojin.co/geosite/tokyo-sports |
@@ -1401,6 +1403,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | ynoproject | https://surge.bojin.co/geosite/ynoproject |
 | yokaverse | https://surge.bojin.co/geosite/yokaverse |
 | yomiuri | https://surge.bojin.co/geosite/yomiuri |
+| yostar | https://surge.bojin.co/geosite/yostar |
 | youjizz | https://surge.bojin.co/geosite/youjizz |
 | youku | https://surge.bojin.co/geosite/youku |
 | youmind | https://surge.bojin.co/geosite/youmind |
@@ -1434,6 +1437,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | zoho | https://surge.bojin.co/geosite/zoho |
 | zoom | https://surge.bojin.co/geosite/zoom |
 | zotero | https://surge.bojin.co/geosite/zotero |
+| zscaler | https://surge.bojin.co/geosite/zscaler |
 | zte | https://surge.bojin.co/geosite/zte |
 | zto-express | https://surge.bojin.co/geosite/zto-express |
 | zuoyebang | https://surge.bojin.co/geosite/zuoyebang |
