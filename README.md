@@ -230,6 +230,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-bank-ir | https://surge.bojin.co/geosite/category-bank-ir |
 | category-bank-jp | https://surge.bojin.co/geosite/category-bank-jp |
 | category-bank-mm | https://surge.bojin.co/geosite/category-bank-mm |
+| category-bank-ru | https://surge.bojin.co/geosite/category-bank-ru |
 | category-blog-cn | https://surge.bojin.co/geosite/category-blog-cn |
 | category-bourse-ir | https://surge.bojin.co/geosite/category-bourse-ir |
 | category-browser-!cn | https://surge.bojin.co/geosite/category-browser-!cn |
@@ -315,6 +316,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-tech-media | https://surge.bojin.co/geosite/category-tech-media |
 | category-tm | https://surge.bojin.co/geosite/category-tm |
 | category-travel-ir | https://surge.bojin.co/geosite/category-travel-ir |
+| category-travel-ru | https://surge.bojin.co/geosite/category-travel-ru |
 | category-voip | https://surge.bojin.co/geosite/category-voip |
 | category-vpnservices | https://surge.bojin.co/geosite/category-vpnservices |
 | category-web-archive | https://surge.bojin.co/geosite/category-web-archive |
@@ -753,6 +755,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | kindle4rss | https://surge.bojin.co/geosite/kindle4rss |
 | kingkonglive | https://surge.bojin.co/geosite/kingkonglive |
 | kingsoft | https://surge.bojin.co/geosite/kingsoft |
+| kinopoisk | https://surge.bojin.co/geosite/kinopoisk |
 | kinopub | https://surge.bojin.co/geosite/kinopub |
 | kkbox | https://surge.bojin.co/geosite/kkbox |
 | kktv | https://surge.bojin.co/geosite/kktv |
