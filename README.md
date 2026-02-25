@@ -872,6 +872,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | misskey | https://surge.bojin.co/geosite/misskey |
 | misskey-universe | https://surge.bojin.co/geosite/misskey-universe |
 | mit | https://surge.bojin.co/geosite/mit |
+| mixi | https://surge.bojin.co/geosite/mixi |
 | mobile01 | https://surge.bojin.co/geosite/mobile01 |
 | mocha | https://surge.bojin.co/geosite/mocha |
 | modrinth | https://surge.bojin.co/geosite/modrinth |
