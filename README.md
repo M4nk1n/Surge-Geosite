@@ -317,6 +317,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-tm | https://surge.bojin.co/geosite/category-tm |
 | category-travel-ir | https://surge.bojin.co/geosite/category-travel-ir |
 | category-travel-ru | https://surge.bojin.co/geosite/category-travel-ru |
+| category-urlshortner | https://surge.bojin.co/geosite/category-urlshortner |
 | category-voip | https://surge.bojin.co/geosite/category-voip |
 | category-vpnservices | https://surge.bojin.co/geosite/category-vpnservices |
 | category-web-archive | https://surge.bojin.co/geosite/category-web-archive |
@@ -680,6 +681,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | ihuman | https://surge.bojin.co/geosite/ihuman |
 | iina | https://surge.bojin.co/geosite/iina |
 | ikea | https://surge.bojin.co/geosite/ikea |
+| illgames | https://surge.bojin.co/geosite/illgames |
 | illusion | https://surge.bojin.co/geosite/illusion |
 | illusion-nonofficial | https://surge.bojin.co/geosite/illusion-nonofficial |
 | imagebam | https://surge.bojin.co/geosite/imagebam |
