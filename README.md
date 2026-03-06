@@ -1017,6 +1017,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | playboy | https://surge.bojin.co/geosite/playboy |
 | playcover | https://surge.bojin.co/geosite/playcover |
 | playstation | https://surge.bojin.co/geosite/playstation |
+| plex | https://surge.bojin.co/geosite/plex |
 | plutotv | https://surge.bojin.co/geosite/plutotv |
 | pocketcasts | https://surge.bojin.co/geosite/pocketcasts |
 | poe | https://surge.bojin.co/geosite/poe |
