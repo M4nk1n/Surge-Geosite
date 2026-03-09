@@ -448,8 +448,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | dmm | https://surge.bojin.co/geosite/dmm |
 | dmm-porn | https://surge.bojin.co/geosite/dmm-porn |
 | dnspod | https://surge.bojin.co/geosite/dnspod |
-| doc88 | https://surge.bojin.co/geosite/doc88 |
-| docin | https://surge.bojin.co/geosite/docin |
 | docker | https://surge.bojin.co/geosite/docker |
 | doi | https://surge.bojin.co/geosite/doi |
 | dola | https://surge.bojin.co/geosite/dola |
@@ -761,7 +759,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | kinopub | https://surge.bojin.co/geosite/kinopub |
 | kkbox | https://surge.bojin.co/geosite/kkbox |
 | kktv | https://surge.bojin.co/geosite/kktv |
-| knovel | https://surge.bojin.co/geosite/knovel |
 | kodi | https://surge.bojin.co/geosite/kodi |
 | kodik | https://surge.bojin.co/geosite/kodik |
 | konachan | https://surge.bojin.co/geosite/konachan |
@@ -933,7 +930,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | nikkei | https://surge.bojin.co/geosite/nikkei |
 | nintendo | https://surge.bojin.co/geosite/nintendo |
 | nist | https://surge.bojin.co/geosite/nist |
-| nixos | https://surge.bojin.co/geosite/nixos |
 | nodejs | https://surge.bojin.co/geosite/nodejs |
 | nodeseek | https://surge.bojin.co/geosite/nodeseek |
 | noip | https://surge.bojin.co/geosite/noip |
@@ -978,7 +974,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | organicmaps | https://surge.bojin.co/geosite/organicmaps |
 | origin | https://surge.bojin.co/geosite/origin |
 | oschina | https://surge.bojin.co/geosite/oschina |
-| osdn | https://surge.bojin.co/geosite/osdn |
 | osu | https://surge.bojin.co/geosite/osu |
 | oup | https://surge.bojin.co/geosite/oup |
 | ozon | https://surge.bojin.co/geosite/ozon |
@@ -1041,7 +1036,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | pugpig | https://surge.bojin.co/geosite/pugpig |
 | purikonejp | https://surge.bojin.co/geosite/purikonejp |
 | python | https://surge.bojin.co/geosite/python |
-| python-community | https://surge.bojin.co/geosite/python-community |
 | qcc | https://surge.bojin.co/geosite/qcc |
 | qcloud | https://surge.bojin.co/geosite/qcloud |
 | qihoo360 | https://surge.bojin.co/geosite/qihoo360 |
@@ -1075,7 +1069,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | redis | https://surge.bojin.co/geosite/redis |
 | redotpay | https://surge.bojin.co/geosite/redotpay |
 | redtube | https://surge.bojin.co/geosite/redtube |
-| remirepo | https://surge.bojin.co/geosite/remirepo |
 | renren | https://surge.bojin.co/geosite/renren |
 | reurl | https://surge.bojin.co/geosite/reurl |
 | reuters | https://surge.bojin.co/geosite/reuters |
@@ -1266,7 +1259,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | tonec | https://surge.bojin.co/geosite/tonec |
 | tongcheng | https://surge.bojin.co/geosite/tongcheng |
 | tongfang | https://surge.bojin.co/geosite/tongfang |
-| topcoder | https://surge.bojin.co/geosite/topcoder |
 | tor | https://surge.bojin.co/geosite/tor |
 | torproject | https://surge.bojin.co/geosite/torproject |
 | trackernetwork | https://surge.bojin.co/geosite/trackernetwork |
@@ -1321,7 +1313,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | vgtime | https://surge.bojin.co/geosite/vgtime |
 | viber | https://surge.bojin.co/geosite/viber |
 | vilavpn | https://surge.bojin.co/geosite/vilavpn |
-| vim | https://surge.bojin.co/geosite/vim |
 | vimeo | https://surge.bojin.co/geosite/vimeo |
 | visa | https://surge.bojin.co/geosite/visa |
 | visualarts | https://surge.bojin.co/geosite/visualarts |
