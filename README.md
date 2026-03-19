@@ -1247,6 +1247,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | tidal | https://surge.bojin.co/geosite/tidal |
 | tidelift | https://surge.bojin.co/geosite/tidelift |
 | tiktok | https://surge.bojin.co/geosite/tiktok |
+| tilda | https://surge.bojin.co/geosite/tilda |
 | tinyurl | https://surge.bojin.co/geosite/tinyurl |
 | tld-!cn | https://surge.bojin.co/geosite/tld-!cn |
 | tld-cn | https://surge.bojin.co/geosite/tld-cn |
