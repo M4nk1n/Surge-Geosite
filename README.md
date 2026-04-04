@@ -582,6 +582,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | gitv | https://surge.bojin.co/geosite/gitv |
 | globalsign | https://surge.bojin.co/geosite/globalsign |
 | globalvoices | https://surge.bojin.co/geosite/globalvoices |
+| globo | https://surge.bojin.co/geosite/globo |
 | glyphs | https://surge.bojin.co/geosite/glyphs |
 | gmo-internet | https://surge.bojin.co/geosite/gmo-internet |
 | godaddy | https://surge.bojin.co/geosite/godaddy |
