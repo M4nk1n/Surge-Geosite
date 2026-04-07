@@ -1098,6 +1098,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | samsung | https://surge.bojin.co/geosite/samsung |
 | sankei | https://surge.bojin.co/geosite/sankei |
 | sb | https://surge.bojin.co/geosite/sb |
+| sber | https://surge.bojin.co/geosite/sber |
 | scala | https://surge.bojin.co/geosite/scala |
 | scaleflex | https://surge.bojin.co/geosite/scaleflex |
 | scenesource | https://surge.bojin.co/geosite/scenesource |
@@ -1214,6 +1215,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | taptap | https://surge.bojin.co/geosite/taptap |
 | target | https://surge.bojin.co/geosite/target |
 | taylorfrancis | https://surge.bojin.co/geosite/taylorfrancis |
+| tbank-ru | https://surge.bojin.co/geosite/tbank-ru |
 | tcl | https://surge.bojin.co/geosite/tcl |
 | teambition | https://surge.bojin.co/geosite/teambition |
 | teamviewer | https://surge.bojin.co/geosite/teamviewer |
