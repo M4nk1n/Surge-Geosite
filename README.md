@@ -495,6 +495,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | enfa | https://surge.bojin.co/geosite/enfa |
 | entermediadb | https://surge.bojin.co/geosite/entermediadb |
 | entrust | https://surge.bojin.co/geosite/entrust |
+| envato | https://surge.bojin.co/geosite/envato |
 | epicbrowser | https://surge.bojin.co/geosite/epicbrowser |
 | epicgames | https://surge.bojin.co/geosite/epicgames |
 | epochmediagroup | https://surge.bojin.co/geosite/epochmediagroup |
