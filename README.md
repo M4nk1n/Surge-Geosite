@@ -212,6 +212,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | canonical | https://surge.bojin.co/geosite/canonical |
 | canva | https://surge.bojin.co/geosite/canva |
 | capitalonline | https://surge.bojin.co/geosite/capitalonline |
+| carrotquest | https://surge.bojin.co/geosite/carrotquest |
 | cas | https://surge.bojin.co/geosite/cas |
 | casimages | https://surge.bojin.co/geosite/casimages |
 | catchplay | https://surge.bojin.co/geosite/catchplay |
@@ -866,6 +867,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | mihoyo | https://surge.bojin.co/geosite/mihoyo |
 | mihoyo-cn | https://surge.bojin.co/geosite/mihoyo-cn |
 | mikrotik | https://surge.bojin.co/geosite/mikrotik |
+| mindbox | https://surge.bojin.co/geosite/mindbox |
 | mindgeek | https://surge.bojin.co/geosite/mindgeek |
 | mindgeek-porn | https://surge.bojin.co/geosite/mindgeek-porn |
 | mini | https://surge.bojin.co/geosite/mini |
@@ -1116,6 +1118,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | segment | https://surge.bojin.co/geosite/segment |
 | segmentfault | https://surge.bojin.co/geosite/segmentfault |
 | sehuatang | https://surge.bojin.co/geosite/sehuatang |
+| selectel | https://surge.bojin.co/geosite/selectel |
 | sentry | https://surge.bojin.co/geosite/sentry |
 | setapp | https://surge.bojin.co/geosite/setapp |
 | setn | https://surge.bojin.co/geosite/setn |
