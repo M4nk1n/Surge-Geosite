@@ -625,6 +625,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | hbo | https://surge.bojin.co/geosite/hbo |
 | hcaptcha | https://surge.bojin.co/geosite/hcaptcha |
 | hdrezka | https://surge.bojin.co/geosite/hdrezka |
+| headhunter | https://surge.bojin.co/geosite/headhunter |
 | hentaichen | https://surge.bojin.co/geosite/hentaichen |
 | hentaivn | https://surge.bojin.co/geosite/hentaivn |
 | herogame | https://surge.bojin.co/geosite/herogame |
