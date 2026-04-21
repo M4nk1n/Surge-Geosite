@@ -284,6 +284,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-media-cn | https://surge.bojin.co/geosite/category-media-cn |
 | category-media-ir | https://surge.bojin.co/geosite/category-media-ir |
 | category-media-ru | https://surge.bojin.co/geosite/category-media-ru |
+| category-media-ru-blocked | https://surge.bojin.co/geosite/category-media-ru-blocked |
 | category-medicine-ru | https://surge.bojin.co/geosite/category-medicine-ru |
 | category-mobile-repair | https://surge.bojin.co/geosite/category-mobile-repair |
 | category-mooc-cn | https://surge.bojin.co/geosite/category-mooc-cn |
@@ -389,6 +390,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | comfy | https://surge.bojin.co/geosite/comfy |
 | comfy-ui-launcher | https://surge.bojin.co/geosite/comfy-ui-launcher |
 | comodo | https://surge.bojin.co/geosite/comodo |
+| comssone | https://surge.bojin.co/geosite/comssone |
 | connectivity-check | https://surge.bojin.co/geosite/connectivity-check |
 | contentful | https://surge.bojin.co/geosite/contentful |
 | coolapk | https://surge.bojin.co/geosite/coolapk |
@@ -571,6 +573,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | gateio | https://surge.bojin.co/geosite/gateio |
 | geetest | https://surge.bojin.co/geosite/geetest |
 | gemfury | https://surge.bojin.co/geosite/gemfury |
+| genotek-ru | https://surge.bojin.co/geosite/genotek-ru |
 | geolocation-!cn | https://surge.bojin.co/geosite/geolocation-!cn |
 | geolocation-cn | https://surge.bojin.co/geosite/geolocation-cn |
 | gettyimages | https://surge.bojin.co/geosite/gettyimages |
@@ -580,6 +583,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | giffgaff | https://surge.bojin.co/geosite/giffgaff |
 | gigabyte | https://surge.bojin.co/geosite/gigabyte |
 | gimy | https://surge.bojin.co/geosite/gimy |
+| gismeteo-ru | https://surge.bojin.co/geosite/gismeteo-ru |
 | gitbook | https://surge.bojin.co/geosite/gitbook |
 | gitee | https://surge.bojin.co/geosite/gitee |
 | github | https://surge.bojin.co/geosite/github |
@@ -681,6 +685,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | icbc | https://surge.bojin.co/geosite/icbc |
 | icloud | https://surge.bojin.co/geosite/icloud |
 | icloudprivaterelay | https://surge.bojin.co/geosite/icloudprivaterelay |
+| ideco-ru | https://surge.bojin.co/geosite/ideco-ru |
 | identrust | https://surge.bojin.co/geosite/identrust |
 | idg | https://surge.bojin.co/geosite/idg |
 | ieee | https://surge.bojin.co/geosite/ieee |
