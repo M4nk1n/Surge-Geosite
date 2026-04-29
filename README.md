@@ -1063,6 +1063,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | python | https://surge.bojin.co/geosite/python |
 | qcc | https://surge.bojin.co/geosite/qcc |
 | qcloud | https://surge.bojin.co/geosite/qcloud |
+| qianxin | https://surge.bojin.co/geosite/qianxin |
 | qihoo360 | https://surge.bojin.co/geosite/qihoo360 |
 | qimao | https://surge.bojin.co/geosite/qimao |
 | qingcloud | https://surge.bojin.co/geosite/qingcloud |
