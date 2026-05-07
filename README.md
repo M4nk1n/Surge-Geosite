@@ -288,6 +288,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-medicine-ru | https://surge.bojin.co/geosite/category-medicine-ru |
 | category-mobile-repair | https://surge.bojin.co/geosite/category-mobile-repair |
 | category-mooc-cn | https://surge.bojin.co/geosite/category-mooc-cn |
+| category-netdisk-!cn | https://surge.bojin.co/geosite/category-netdisk-!cn |
 | category-netdisk-cn | https://surge.bojin.co/geosite/category-netdisk-cn |
 | category-network-security-cn | https://surge.bojin.co/geosite/category-network-security-cn |
 | category-news-ir | https://surge.bojin.co/geosite/category-news-ir |
@@ -1316,6 +1317,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | tvdb | https://surge.bojin.co/geosite/tvdb |
 | tver | https://surge.bojin.co/geosite/tver |
 | twca | https://surge.bojin.co/geosite/twca |
+| twilio | https://surge.bojin.co/geosite/twilio |
 | twitch | https://surge.bojin.co/geosite/twitch |
 | twitter | https://surge.bojin.co/geosite/twitter |
 | typekit | https://surge.bojin.co/geosite/typekit |
