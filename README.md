@@ -950,6 +950,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | nga | https://surge.bojin.co/geosite/nga |
 | nginx | https://surge.bojin.co/geosite/nginx |
 | ngrok | https://surge.bojin.co/geosite/ngrok |
+| nicegram | https://surge.bojin.co/geosite/nicegram |
 | niconico | https://surge.bojin.co/geosite/niconico |
 | nike | https://surge.bojin.co/geosite/nike |
 | nikkan-gendai | https://surge.bojin.co/geosite/nikkan-gendai |
