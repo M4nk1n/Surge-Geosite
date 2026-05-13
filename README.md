@@ -348,6 +348,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | chinabroadnet | https://surge.bojin.co/geosite/chinabroadnet |
 | chinamobile | https://surge.bojin.co/geosite/chinamobile |
 | chinanews | https://surge.bojin.co/geosite/chinanews |
+| chinapost | https://surge.bojin.co/geosite/chinapost |
 | chinapower | https://surge.bojin.co/geosite/chinapower |
 | chinaso | https://surge.bojin.co/geosite/chinaso |
 | chinatelecom | https://surge.bojin.co/geosite/chinatelecom |
@@ -1005,6 +1006,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | oschina | https://surge.bojin.co/geosite/oschina |
 | oskelly | https://surge.bojin.co/geosite/oskelly |
 | osu | https://surge.bojin.co/geosite/osu |
+| otpbank | https://surge.bojin.co/geosite/otpbank |
 | oup | https://surge.bojin.co/geosite/oup |
 | ozon | https://surge.bojin.co/geosite/ozon |
 | pagecdn | https://surge.bojin.co/geosite/pagecdn |
@@ -1085,6 +1087,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | qwant | https://surge.bojin.co/geosite/qwant |
 | qweather | https://surge.bojin.co/geosite/qweather |
 | radiko | https://surge.bojin.co/geosite/radiko |
+| raiffeisenbank | https://surge.bojin.co/geosite/raiffeisenbank |
 | rakuten | https://surge.bojin.co/geosite/rakuten |
 | rarbg | https://surge.bojin.co/geosite/rarbg |
 | razer | https://surge.bojin.co/geosite/razer |
@@ -1333,7 +1336,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | uc | https://surge.bojin.co/geosite/uc |
 | ucloud | https://surge.bojin.co/geosite/ucloud |
 | ucoz | https://surge.bojin.co/geosite/ucoz |
-| ucoz-ru | https://surge.bojin.co/geosite/ucoz-ru |
 | udacity | https://surge.bojin.co/geosite/udacity |
 | udemy | https://surge.bojin.co/geosite/udemy |
 | udn | https://surge.bojin.co/geosite/udn |
