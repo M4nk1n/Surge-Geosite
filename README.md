@@ -1255,6 +1255,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | tbank-ru | https://surge.bojin.co/geosite/tbank-ru |
 | tcl | https://surge.bojin.co/geosite/tcl |
 | teambition | https://surge.bojin.co/geosite/teambition |
+| teamspeak | https://surge.bojin.co/geosite/teamspeak |
 | teamviewer | https://surge.bojin.co/geosite/teamviewer |
 | technogym | https://surge.bojin.co/geosite/technogym |
 | techpowerup | https://surge.bojin.co/geosite/techpowerup |
