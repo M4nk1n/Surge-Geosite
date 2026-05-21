@@ -319,6 +319,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-social-media-cn | https://surge.bojin.co/geosite/category-social-media-cn |
 | category-social-media-ir | https://surge.bojin.co/geosite/category-social-media-ir |
 | category-speedtest | https://surge.bojin.co/geosite/category-speedtest |
+| category-stun | https://surge.bojin.co/geosite/category-stun |
 | category-tech-ir | https://surge.bojin.co/geosite/category-tech-ir |
 | category-tech-media | https://surge.bojin.co/geosite/category-tech-media |
 | category-tm | https://surge.bojin.co/geosite/category-tm |
