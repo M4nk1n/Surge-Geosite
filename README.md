@@ -912,6 +912,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | morisawa | https://surge.bojin.co/geosite/morisawa |
 | mortein | https://surge.bojin.co/geosite/mortein |
 | mosmetro | https://surge.bojin.co/geosite/mosmetro |
+| motorola | https://surge.bojin.co/geosite/motorola |
 | movefree | https://surge.bojin.co/geosite/movefree |
 | moxing | https://surge.bojin.co/geosite/moxing |
 | mozilla | https://surge.bojin.co/geosite/mozilla |
