@@ -1347,6 +1347,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | unionpay | https://surge.bojin.co/geosite/unionpay |
 | unity | https://surge.bojin.co/geosite/unity |
 | unitychina | https://surge.bojin.co/geosite/unitychina |
+| uoliv | https://surge.bojin.co/geosite/uoliv |
 | upai | https://surge.bojin.co/geosite/upai |
 | usersdrive | https://surge.bojin.co/geosite/usersdrive |
 | uu-chat | https://surge.bojin.co/geosite/uu-chat |
