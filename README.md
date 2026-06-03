@@ -41,7 +41,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | 800best | https://surge.bojin.co/geosite/800best |
 | 8btc | https://surge.bojin.co/geosite/8btc |
 | 928plus | https://surge.bojin.co/geosite/928plus |
-| 9game | https://surge.bojin.co/geosite/9game |
 | 9news | https://surge.bojin.co/geosite/9news |
 | 9to5 | https://surge.bojin.co/geosite/9to5 |
 | aamgame | https://surge.bojin.co/geosite/aamgame |
@@ -76,6 +75,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | akiko | https://surge.bojin.co/geosite/akiko |
 | alibaba | https://surge.bojin.co/geosite/alibaba |
 | alibabacloud | https://surge.bojin.co/geosite/alibabacloud |
+| aligames | https://surge.bojin.co/geosite/aligames |
 | aliyun | https://surge.bojin.co/geosite/aliyun |
 | aliyun-drive | https://surge.bojin.co/geosite/aliyun-drive |
 | aljazeera | https://surge.bojin.co/geosite/aljazeera |
@@ -1163,6 +1163,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | shopify | https://surge.bojin.co/geosite/shopify |
 | shorturl | https://surge.bojin.co/geosite/shorturl |
 | showtimeanytime | https://surge.bojin.co/geosite/showtimeanytime |
+| shuqi | https://surge.bojin.co/geosite/shuqi |
 | signal | https://surge.bojin.co/geosite/signal |
 | sina | https://surge.bojin.co/geosite/sina |
 | singtaonewscorp | https://surge.bojin.co/geosite/singtaonewscorp |
