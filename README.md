@@ -79,6 +79,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | aliyun | https://surge.bojin.co/geosite/aliyun |
 | aliyun-drive | https://surge.bojin.co/geosite/aliyun-drive |
 | aljazeera | https://surge.bojin.co/geosite/aljazeera |
+| alphabet | https://surge.bojin.co/geosite/alphabet |
 | amap | https://surge.bojin.co/geosite/amap |
 | amazon | https://surge.bojin.co/geosite/amazon |
 | amazontrust | https://surge.bojin.co/geosite/amazontrust |
@@ -1115,9 +1116,11 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | roblox | https://surge.bojin.co/geosite/roblox |
 | rockstar | https://surge.bojin.co/geosite/rockstar |
 | roku | https://surge.bojin.co/geosite/roku |
+| rossiyasegodnya | https://surge.bojin.co/geosite/rossiyasegodnya |
 | rostelecom | https://surge.bojin.co/geosite/rostelecom |
 | rsshub | https://surge.bojin.co/geosite/rsshub |
 | rsshub-3rd | https://surge.bojin.co/geosite/rsshub-3rd |
+| rt | https://surge.bojin.co/geosite/rt |
 | rthk | https://surge.bojin.co/geosite/rthk |
 | ruanmei | https://surge.bojin.co/geosite/ruanmei |
 | ruby | https://surge.bojin.co/geosite/ruby |
