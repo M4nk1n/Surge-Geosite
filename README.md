@@ -1273,6 +1273,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | tencent | https://surge.bojin.co/geosite/tencent |
 | tencent-dev | https://surge.bojin.co/geosite/tencent-dev |
 | tencent-games | https://surge.bojin.co/geosite/tencent-games |
+| tencent-tme | https://surge.bojin.co/geosite/tencent-tme |
 | tendcloud | https://surge.bojin.co/geosite/tendcloud |
 | terabox | https://surge.bojin.co/geosite/terabox |
 | termux | https://surge.bojin.co/geosite/termux |
