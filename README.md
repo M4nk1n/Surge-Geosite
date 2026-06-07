@@ -312,6 +312,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-ru | https://surge.bojin.co/geosite/category-ru |
 | category-scholar-!cn | https://surge.bojin.co/geosite/category-scholar-!cn |
 | category-scholar-cn | https://surge.bojin.co/geosite/category-scholar-cn |
+| category-scholar-hk | https://surge.bojin.co/geosite/category-scholar-hk |
 | category-scholar-ir | https://surge.bojin.co/geosite/category-scholar-ir |
 | category-scholar-uk | https://surge.bojin.co/geosite/category-scholar-uk |
 | category-securities-cn | https://surge.bojin.co/geosite/category-securities-cn |
@@ -360,6 +361,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | cisco | https://surge.bojin.co/geosite/cisco |
 | citic | https://surge.bojin.co/geosite/citic |
 | citizenlab | https://surge.bojin.co/geosite/citizenlab |
+| cityu-hk | https://surge.bojin.co/geosite/cityu-hk |
 | ciweimao | https://surge.bojin.co/geosite/ciweimao |
 | ck101 | https://surge.bojin.co/geosite/ck101 |
 | clarivate | https://surge.bojin.co/geosite/clarivate |
@@ -413,6 +415,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | ctexcel | https://surge.bojin.co/geosite/ctexcel |
 | ctrip | https://surge.bojin.co/geosite/ctrip |
 | ctyun | https://surge.bojin.co/geosite/ctyun |
+| cuhk | https://surge.bojin.co/geosite/cuhk |
 | cuinc | https://surge.bojin.co/geosite/cuinc |
 | curseforge | https://surge.bojin.co/geosite/curseforge |
 | cursor | https://surge.bojin.co/geosite/cursor |
@@ -491,6 +494,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | ebay | https://surge.bojin.co/geosite/ebay |
 | ebuyer | https://surge.bojin.co/geosite/ebuyer |
 | economist | https://surge.bojin.co/geosite/economist |
+| eduhk | https://surge.bojin.co/geosite/eduhk |
 | edx | https://surge.bojin.co/geosite/edx |
 | egghead | https://surge.bojin.co/geosite/egghead |
 | ehentai | https://surge.bojin.co/geosite/ehentai |
@@ -650,13 +654,17 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | hikvision | https://surge.bojin.co/geosite/hikvision |
 | hinet | https://surge.bojin.co/geosite/hinet |
 | hinet-eca | https://surge.bojin.co/geosite/hinet-eca |
+| hisense | https://surge.bojin.co/geosite/hisense |
 | hitun | https://surge.bojin.co/geosite/hitun |
 | hkbn | https://surge.bojin.co/geosite/hkbn |
+| hkbu | https://surge.bojin.co/geosite/hkbu |
 | hkedcity | https://surge.bojin.co/geosite/hkedcity |
 | hketgroup | https://surge.bojin.co/geosite/hketgroup |
 | hkgolden | https://surge.bojin.co/geosite/hkgolden |
 | hkopentv | https://surge.bojin.co/geosite/hkopentv |
 | hkt | https://surge.bojin.co/geosite/hkt |
+| hku | https://surge.bojin.co/geosite/hku |
+| hkust | https://surge.bojin.co/geosite/hkust |
 | hm | https://surge.bojin.co/geosite/hm |
 | homebrew | https://surge.bojin.co/geosite/homebrew |
 | homedepot | https://surge.bojin.co/geosite/homedepot |
@@ -679,6 +687,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | huggingface | https://surge.bojin.co/geosite/huggingface |
 | hujiang | https://surge.bojin.co/geosite/hujiang |
 | hulu | https://surge.bojin.co/geosite/hulu |
+| humblebundle | https://surge.bojin.co/geosite/humblebundle |
 | hunantv | https://surge.bojin.co/geosite/hunantv |
 | huobi | https://surge.bojin.co/geosite/huobi |
 | hupu | https://surge.bojin.co/geosite/hupu |
@@ -1054,6 +1063,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | poe | https://surge.bojin.co/geosite/poe |
 | polocloud | https://surge.bojin.co/geosite/polocloud |
 | polymer | https://surge.bojin.co/geosite/polymer |
+| polyu | https://surge.bojin.co/geosite/polyu |
 | polyv | https://surge.bojin.co/geosite/polyv |
 | pornhub | https://surge.bojin.co/geosite/pornhub |
 | pornpros | https://surge.bojin.co/geosite/pornpros |
