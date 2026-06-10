@@ -1359,6 +1359,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | udemy | https://surge.bojin.co/geosite/udemy |
 | udn | https://surge.bojin.co/geosite/udn |
 | umeng | https://surge.bojin.co/geosite/umeng |
+| unext | https://surge.bojin.co/geosite/unext |
 | unionpay | https://surge.bojin.co/geosite/unionpay |
 | unity | https://surge.bojin.co/geosite/unity |
 | unitychina | https://surge.bojin.co/geosite/unitychina |
