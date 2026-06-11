@@ -451,6 +451,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | dingdatech | https://surge.bojin.co/geosite/dingdatech |
 | dingtalk | https://surge.bojin.co/geosite/dingtalk |
 | discord | https://surge.bojin.co/geosite/discord |
+| discourse | https://surge.bojin.co/geosite/discourse |
 | discoveryplus | https://surge.bojin.co/geosite/discoveryplus |
 | discuz | https://surge.bojin.co/geosite/discuz |
 | disney | https://surge.bojin.co/geosite/disney |
@@ -575,6 +576,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | fzdm | https://surge.bojin.co/geosite/fzdm |
 | gaijin | https://surge.bojin.co/geosite/gaijin |
 | gamersky | https://surge.bojin.co/geosite/gamersky |
+| gamesplanet | https://surge.bojin.co/geosite/gamesplanet |
 | gandi | https://surge.bojin.co/geosite/gandi |
 | ganji | https://surge.bojin.co/geosite/ganji |
 | gannett | https://surge.bojin.co/geosite/gannett |
@@ -831,6 +833,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | liepin | https://surge.bojin.co/geosite/liepin |
 | lifewire | https://surge.bojin.co/geosite/lifewire |
 | ligastavok | https://surge.bojin.co/geosite/ligastavok |
+| lighter | https://surge.bojin.co/geosite/lighter |
 | lihkg | https://surge.bojin.co/geosite/lihkg |
 | limelight | https://surge.bojin.co/geosite/limelight |
 | linakesi | https://surge.bojin.co/geosite/linakesi |
@@ -964,6 +967,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | nga | https://surge.bojin.co/geosite/nga |
 | nginx | https://surge.bojin.co/geosite/nginx |
 | ngrok | https://surge.bojin.co/geosite/ngrok |
+| nhk | https://surge.bojin.co/geosite/nhk |
 | nicegram | https://surge.bojin.co/geosite/nicegram |
 | niconico | https://surge.bojin.co/geosite/niconico |
 | nike | https://surge.bojin.co/geosite/nike |
@@ -1459,6 +1463,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | xingkongwuxianmedia | https://surge.bojin.co/geosite/xingkongwuxianmedia |
 | xingrz | https://surge.bojin.co/geosite/xingrz |
 | xnxx | https://surge.bojin.co/geosite/xnxx |
+| xtom | https://surge.bojin.co/geosite/xtom |
 | xueersi | https://surge.bojin.co/geosite/xueersi |
 | xueqiu | https://surge.bojin.co/geosite/xueqiu |
 | xunlei | https://surge.bojin.co/geosite/xunlei |
