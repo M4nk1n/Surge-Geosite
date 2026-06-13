@@ -845,6 +845,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | linuxdo | https://surge.bojin.co/geosite/linuxdo |
 | lisiku | https://surge.bojin.co/geosite/lisiku |
 | litv | https://surge.bojin.co/geosite/litv |
+| livejournal | https://surge.bojin.co/geosite/livejournal |
 | liveperson | https://surge.bojin.co/geosite/liveperson |
 | lizhi | https://surge.bojin.co/geosite/lizhi |
 | lkcoffee | https://surge.bojin.co/geosite/lkcoffee |
