@@ -969,6 +969,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | nginx | https://surge.bojin.co/geosite/nginx |
 | ngrok | https://surge.bojin.co/geosite/ngrok |
 | nhk | https://surge.bojin.co/geosite/nhk |
+| nic-ru | https://surge.bojin.co/geosite/nic-ru |
 | nicegram | https://surge.bojin.co/geosite/nicegram |
 | niconico | https://surge.bojin.co/geosite/niconico |
 | nike | https://surge.bojin.co/geosite/nike |
@@ -1123,6 +1124,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | redis | https://surge.bojin.co/geosite/redis |
 | redotpay | https://surge.bojin.co/geosite/redotpay |
 | redtube | https://surge.bojin.co/geosite/redtube |
+| regru | https://surge.bojin.co/geosite/regru |
 | renren | https://surge.bojin.co/geosite/renren |
 | reurl | https://surge.bojin.co/geosite/reurl |
 | reuters | https://surge.bojin.co/geosite/reuters |
@@ -1146,6 +1148,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | ruten | https://surge.bojin.co/geosite/ruten |
 | rutracker | https://surge.bojin.co/geosite/rutracker |
 | rutube | https://surge.bojin.co/geosite/rutube |
+| safepal | https://surge.bojin.co/geosite/safepal |
 | sakurafrp | https://surge.bojin.co/geosite/sakurafrp |
 | salesforce | https://surge.bojin.co/geosite/salesforce |
 | samsung | https://surge.bojin.co/geosite/samsung |
