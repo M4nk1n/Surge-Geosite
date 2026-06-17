@@ -1268,6 +1268,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | synology | https://surge.bojin.co/geosite/synology |
 | t2-ru | https://surge.bojin.co/geosite/t2-ru |
 | taboola | https://surge.bojin.co/geosite/taboola |
+| taihe | https://surge.bojin.co/geosite/taihe |
 | taikang | https://surge.bojin.co/geosite/taikang |
 | tailscale | https://surge.bojin.co/geosite/tailscale |
 | take-two | https://surge.bojin.co/geosite/take-two |
