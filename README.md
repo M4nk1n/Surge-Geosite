@@ -1044,6 +1044,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | peppy | https://surge.bojin.co/geosite/peppy |
 | perl | https://surge.bojin.co/geosite/perl |
 | perplexity | https://surge.bojin.co/geosite/perplexity |
+| petrochina | https://surge.bojin.co/geosite/petrochina |
 | pgyer | https://surge.bojin.co/geosite/pgyer |
 | phoenix | https://surge.bojin.co/geosite/phoenix |
 | picacg | https://surge.bojin.co/geosite/picacg |
@@ -1338,6 +1339,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | trae | https://surge.bojin.co/geosite/trae |
 | translatewiki | https://surge.bojin.co/geosite/translatewiki |
 | trello | https://surge.bojin.co/geosite/trello |
+| trustasia | https://surge.bojin.co/geosite/trustasia |
 | trustwallet | https://surge.bojin.co/geosite/trustwallet |
 | trustwave | https://surge.bojin.co/geosite/trustwave |
 | truyen-hentai | https://surge.bojin.co/geosite/truyen-hentai |
@@ -1413,6 +1415,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | walmart | https://surge.bojin.co/geosite/walmart |
 | wanfang | https://surge.bojin.co/geosite/wanfang |
 | wangsu | https://surge.bojin.co/geosite/wangsu |
+| wanmei | https://surge.bojin.co/geosite/wanmei |
 | wantmedia | https://surge.bojin.co/geosite/wantmedia |
 | wargaming | https://surge.bojin.co/geosite/wargaming |
 | wasu | https://surge.bojin.co/geosite/wasu |
