@@ -49,7 +49,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | accuweather | https://surge.bojin.co/geosite/accuweather |
 | acer | https://surge.bojin.co/geosite/acer |
 | acfun | https://surge.bojin.co/geosite/acfun |
-| acplay | https://surge.bojin.co/geosite/acplay |
 | actalis | https://surge.bojin.co/geosite/actalis |
 | adblock | https://surge.bojin.co/geosite/adblock |
 | adblockplus | https://surge.bojin.co/geosite/adblockplus |
@@ -426,6 +425,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | cylink | https://surge.bojin.co/geosite/cylink |
 | dailymail | https://surge.bojin.co/geosite/dailymail |
 | dailymotion | https://surge.bojin.co/geosite/dailymotion |
+| dandanplay | https://surge.bojin.co/geosite/dandanplay |
 | dandanzan | https://surge.bojin.co/geosite/dandanzan |
 | dangdang | https://surge.bojin.co/geosite/dangdang |
 | dart | https://surge.bojin.co/geosite/dart |
