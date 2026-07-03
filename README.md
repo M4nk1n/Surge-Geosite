@@ -1075,6 +1075,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | polyv | https://surge.bojin.co/geosite/polyv |
 | pornhub | https://surge.bojin.co/geosite/pornhub |
 | pornpros | https://surge.bojin.co/geosite/pornpros |
+| positive-technologies | https://surge.bojin.co/geosite/positive-technologies |
 | postimages | https://surge.bojin.co/geosite/postimages |
 | pptv | https://surge.bojin.co/geosite/pptv |
 | primevideo | https://surge.bojin.co/geosite/primevideo |
@@ -1175,6 +1176,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | sehuatang | https://surge.bojin.co/geosite/sehuatang |
 | selectel | https://surge.bojin.co/geosite/selectel |
 | sentry | https://surge.bojin.co/geosite/sentry |
+| servicepipe | https://surge.bojin.co/geosite/servicepipe |
 | setapp | https://surge.bojin.co/geosite/setapp |
 | setn | https://surge.bojin.co/geosite/setn |
 | sf-express | https://surge.bojin.co/geosite/sf-express |
