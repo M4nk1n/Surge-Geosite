@@ -1036,6 +1036,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | paskoocheh | https://surge.bojin.co/geosite/paskoocheh |
 | pastebin | https://surge.bojin.co/geosite/pastebin |
 | patreon | https://surge.bojin.co/geosite/patreon |
+| pawchive | https://surge.bojin.co/geosite/pawchive |
 | paypal | https://surge.bojin.co/geosite/paypal |
 | pbs | https://surge.bojin.co/geosite/pbs |
 | pccw | https://surge.bojin.co/geosite/pccw |
