@@ -225,6 +225,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-ai-!cn | https://surge.bojin.co/geosite/category-ai-!cn |
 | category-ai-chat-!cn | https://surge.bojin.co/geosite/category-ai-chat-!cn |
 | category-ai-cn | https://surge.bojin.co/geosite/category-ai-cn |
+| category-ai-ru | https://surge.bojin.co/geosite/category-ai-ru |
 | category-android-app-download | https://surge.bojin.co/geosite/category-android-app-download |
 | category-anticensorship | https://surge.bojin.co/geosite/category-anticensorship |
 | category-antivirus | https://surge.bojin.co/geosite/category-antivirus |
@@ -343,6 +344,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | cern | https://surge.bojin.co/geosite/cern |
 | certinomis | https://surge.bojin.co/geosite/certinomis |
 | certum | https://surge.bojin.co/geosite/certum |
+| changyou | https://surge.bojin.co/geosite/changyou |
 | chaoxing | https://surge.bojin.co/geosite/chaoxing |
 | chatango | https://surge.bojin.co/geosite/chatango |
 | chatwhores | https://surge.bojin.co/geosite/chatwhores |
@@ -557,6 +559,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | flibusta | https://surge.bojin.co/geosite/flibusta |
 | flickr | https://surge.bojin.co/geosite/flickr |
 | flowus | https://surge.bojin.co/geosite/flowus |
+| flowwow | https://surge.bojin.co/geosite/flowwow |
 | flutter | https://surge.bojin.co/geosite/flutter |
 | fonbet | https://surge.bojin.co/geosite/fonbet |
 | fontawesome | https://surge.bojin.co/geosite/fontawesome |
@@ -573,6 +576,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | freenode | https://surge.bojin.co/geosite/freenode |
 | ft | https://surge.bojin.co/geosite/ft |
 | ftv | https://surge.bojin.co/geosite/ftv |
+| funpay | https://surge.bojin.co/geosite/funpay |
 | futu | https://surge.bojin.co/geosite/futu |
 | fzdm | https://surge.bojin.co/geosite/fzdm |
 | gaijin | https://surge.bojin.co/geosite/gaijin |
