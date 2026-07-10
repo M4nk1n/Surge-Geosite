@@ -105,7 +105,9 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | apple | https://surge.bojin.co/geosite/apple |
 | apple-dev | https://surge.bojin.co/geosite/apple-dev |
 | apple-intelligence | https://surge.bojin.co/geosite/apple-intelligence |
+| apple-music | https://surge.bojin.co/geosite/apple-music |
 | apple-pki | https://surge.bojin.co/geosite/apple-pki |
+| apple-podcasts | https://surge.bojin.co/geosite/apple-podcasts |
 | apple-tvplus | https://surge.bojin.co/geosite/apple-tvplus |
 | apple-update | https://surge.bojin.co/geosite/apple-update |
 | appledaily | https://surge.bojin.co/geosite/appledaily |
