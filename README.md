@@ -153,6 +153,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | beget | https://surge.bojin.co/geosite/beget |
 | beisen | https://surge.bojin.co/geosite/beisen |
 | bestbuy | https://surge.bojin.co/geosite/bestbuy |
+| bestchange | https://surge.bojin.co/geosite/bestchange |
 | bestore | https://surge.bojin.co/geosite/bestore |
 | bestv | https://surge.bojin.co/geosite/bestv |
 | betboom | https://surge.bojin.co/geosite/betboom |
