@@ -128,7 +128,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | att | https://surge.bojin.co/geosite/att |
 | attwatchtv | https://surge.bojin.co/geosite/attwatchtv |
 | autodesk | https://surge.bojin.co/geosite/autodesk |
-| aux | https://surge.bojin.co/geosite/aux |
+| auxgroup | https://surge.bojin.co/geosite/auxgroup |
 | avaxhome | https://surge.bojin.co/geosite/avaxhome |
 | aviasales | https://surge.bojin.co/geosite/aviasales |
 | avito | https://surge.bojin.co/geosite/avito |
