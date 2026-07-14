@@ -793,6 +793,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | kernel | https://surge.bojin.co/geosite/kernel |
 | keybase | https://surge.bojin.co/geosite/keybase |
 | khanacademy | https://surge.bojin.co/geosite/khanacademy |
+| kick | https://surge.bojin.co/geosite/kick |
 | kindle | https://surge.bojin.co/geosite/kindle |
 | kindle4rss | https://surge.bojin.co/geosite/kindle4rss |
 | kingkonglive | https://surge.bojin.co/geosite/kingkonglive |
