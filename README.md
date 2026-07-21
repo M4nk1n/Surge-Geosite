@@ -572,6 +572,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | fontshop | https://surge.bojin.co/geosite/fontshop |
 | fontsinuse | https://surge.bojin.co/geosite/fontsinuse |
 | forbes | https://surge.bojin.co/geosite/forbes |
+| formula1 | https://surge.bojin.co/geosite/formula1 |
 | forza | https://surge.bojin.co/geosite/forza |
 | fox | https://surge.bojin.co/geosite/fox |
 | fqnovel | https://surge.bojin.co/geosite/fqnovel |
@@ -1414,6 +1415,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | vmware | https://surge.bojin.co/geosite/vmware |
 | voanews | https://surge.bojin.co/geosite/voanews |
 | vodafone | https://surge.bojin.co/geosite/vodafone |
+| vokino | https://surge.bojin.co/geosite/vokino |
 | volcengine | https://surge.bojin.co/geosite/volcengine |
 | volmoe | https://surge.bojin.co/geosite/volmoe |
 | volvo | https://surge.bojin.co/geosite/volvo |
