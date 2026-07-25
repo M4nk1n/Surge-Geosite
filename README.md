@@ -1140,6 +1140,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | redotpay | https://surge.bojin.co/geosite/redotpay |
 | redtube | https://surge.bojin.co/geosite/redtube |
 | regru | https://surge.bojin.co/geosite/regru |
+| remnawave | https://surge.bojin.co/geosite/remnawave |
 | renren | https://surge.bojin.co/geosite/renren |
 | reurl | https://surge.bojin.co/geosite/reurl |
 | reuters | https://surge.bojin.co/geosite/reuters |
