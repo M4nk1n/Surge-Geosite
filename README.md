@@ -965,6 +965,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | naver | https://surge.bojin.co/geosite/naver |
 | nbcuniversal | https://surge.bojin.co/geosite/nbcuniversal |
 | neowin | https://surge.bojin.co/geosite/neowin |
+| netcraze | https://surge.bojin.co/geosite/netcraze |
 | netcup | https://surge.bojin.co/geosite/netcup |
 | netease | https://surge.bojin.co/geosite/netease |
 | netflav | https://surge.bojin.co/geosite/netflav |
