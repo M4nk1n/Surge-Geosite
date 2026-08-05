@@ -572,6 +572,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | flowus | https://surge.bojin.co/geosite/flowus |
 | flowwow | https://surge.bojin.co/geosite/flowwow |
 | flutter | https://surge.bojin.co/geosite/flutter |
+| flyio | https://surge.bojin.co/geosite/flyio |
 | fonbet | https://surge.bojin.co/geosite/fonbet |
 | fontawesome | https://surge.bojin.co/geosite/fontawesome |
 | fontexplorer | https://surge.bojin.co/geosite/fontexplorer |
@@ -1238,6 +1239,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | sogou | https://surge.bojin.co/geosite/sogou |
 | sohu | https://surge.bojin.co/geosite/sohu |
 | sokolov | https://surge.bojin.co/geosite/sokolov |
+| sonemic | https://surge.bojin.co/geosite/sonemic |
 | sony | https://surge.bojin.co/geosite/sony |
 | sonypictures | https://surge.bojin.co/geosite/sonypictures |
 | soundcloud | https://surge.bojin.co/geosite/soundcloud |
