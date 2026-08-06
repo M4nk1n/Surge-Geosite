@@ -573,6 +573,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | flowwow | https://surge.bojin.co/geosite/flowwow |
 | flutter | https://surge.bojin.co/geosite/flutter |
 | flyio | https://surge.bojin.co/geosite/flyio |
+| focuschina | https://surge.bojin.co/geosite/focuschina |
 | fonbet | https://surge.bojin.co/geosite/fonbet |
 | fontawesome | https://surge.bojin.co/geosite/fontawesome |
 | fontexplorer | https://surge.bojin.co/geosite/fontexplorer |
@@ -681,7 +682,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | hkedcity | https://surge.bojin.co/geosite/hkedcity |
 | hketgroup | https://surge.bojin.co/geosite/hketgroup |
 | hkgolden | https://surge.bojin.co/geosite/hkgolden |
-| hkopentv | https://surge.bojin.co/geosite/hkopentv |
 | hkt | https://surge.bojin.co/geosite/hkt |
 | hku | https://surge.bojin.co/geosite/hku |
 | hkust | https://surge.bojin.co/geosite/hkust |
