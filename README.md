@@ -1003,6 +1003,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | nikkei | https://surge.bojin.co/geosite/nikkei |
 | nintendo | https://surge.bojin.co/geosite/nintendo |
 | nist | https://surge.bojin.co/geosite/nist |
+| nixos | https://surge.bojin.co/geosite/nixos |
 | nodejs | https://surge.bojin.co/geosite/nodejs |
 | nodeseek | https://surge.bojin.co/geosite/nodeseek |
 | noip | https://surge.bojin.co/geosite/noip |
