@@ -1389,7 +1389,6 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | typekit | https://surge.bojin.co/geosite/typekit |
 | typenetwork | https://surge.bojin.co/geosite/typenetwork |
 | typography | https://surge.bojin.co/geosite/typography |
-| u17 | https://surge.bojin.co/geosite/u17 |
 | uber | https://surge.bojin.co/geosite/uber |
 | ubiquiti | https://surge.bojin.co/geosite/ubiquiti |
 | ubisoft | https://surge.bojin.co/geosite/ubisoft |
