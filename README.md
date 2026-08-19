@@ -1008,6 +1008,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | nodeseek | https://surge.bojin.co/geosite/nodeseek |
 | noip | https://surge.bojin.co/geosite/noip |
 | nordstrom | https://surge.bojin.co/geosite/nordstrom |
+| nordvpn | https://surge.bojin.co/geosite/nordvpn |
 | notion | https://surge.bojin.co/geosite/notion |
 | now | https://surge.bojin.co/geosite/now |
 | nowcoder | https://surge.bojin.co/geosite/nowcoder |
