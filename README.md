@@ -985,6 +985,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | netlify | https://surge.bojin.co/geosite/netlify |
 | neuralink | https://surge.bojin.co/geosite/neuralink |
 | newegg | https://surge.bojin.co/geosite/newegg |
+| newgrounds | https://surge.bojin.co/geosite/newgrounds |
 | newscorp | https://surge.bojin.co/geosite/newscorp |
 | newsmax | https://surge.bojin.co/geosite/newsmax |
 | nexitally | https://surge.bojin.co/geosite/nexitally |
