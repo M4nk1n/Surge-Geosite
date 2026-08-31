@@ -88,6 +88,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | amc | https://surge.bojin.co/geosite/amc |
 | amd | https://surge.bojin.co/geosite/amd |
 | amp | https://surge.bojin.co/geosite/amp |
+| amplitude | https://surge.bojin.co/geosite/amplitude |
 | anaconda | https://surge.bojin.co/geosite/anaconda |
 | anandtech | https://surge.bojin.co/geosite/anandtech |
 | android | https://surge.bojin.co/geosite/android |
