@@ -1430,6 +1430,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | visualarts | https://surge.bojin.co/geosite/visualarts |
 | viu | https://surge.bojin.co/geosite/viu |
 | vivo | https://surge.bojin.co/geosite/vivo |
+| vixengroup | https://surge.bojin.co/geosite/vixengroup |
 | vk | https://surge.bojin.co/geosite/vk |
 | vmware | https://surge.bojin.co/geosite/vmware |
 | voanews | https://surge.bojin.co/geosite/voanews |
