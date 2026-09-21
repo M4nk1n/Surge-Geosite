@@ -589,6 +589,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | fox | https://surge.bojin.co/geosite/fox |
 | fqnovel | https://surge.bojin.co/geosite/fqnovel |
 | framer | https://surge.bojin.co/geosite/framer |
+| freebuff | https://surge.bojin.co/geosite/freebuff |
 | freecodecamp | https://surge.bojin.co/geosite/freecodecamp |
 | freenode | https://surge.bojin.co/geosite/freenode |
 | ft | https://surge.bojin.co/geosite/ft |
