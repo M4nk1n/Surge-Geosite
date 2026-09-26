@@ -1235,6 +1235,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | slideshare | https://surge.bojin.co/geosite/slideshare |
 | sling | https://surge.bojin.co/geosite/sling |
 | smartone | https://surge.bojin.co/geosite/smartone |
+| smena | https://surge.bojin.co/geosite/smena |
 | smtiaojiaoshi | https://surge.bojin.co/geosite/smtiaojiaoshi |
 | smzdm | https://surge.bojin.co/geosite/smzdm |
 | snap | https://surge.bojin.co/geosite/snap |
