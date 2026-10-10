@@ -230,6 +230,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-acg | https://surge.bojin.co/geosite/category-acg |
 | category-ads | https://surge.bojin.co/geosite/category-ads |
 | category-ads-all | https://surge.bojin.co/geosite/category-ads-all |
+| category-ads-and-telemetry | https://surge.bojin.co/geosite/category-ads-and-telemetry |
 | category-ads-ir | https://surge.bojin.co/geosite/category-ads-ir |
 | category-ai-!cn | https://surge.bojin.co/geosite/category-ai-!cn |
 | category-ai-chat-!cn | https://surge.bojin.co/geosite/category-ai-chat-!cn |
@@ -337,6 +338,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-tech-ir | https://surge.bojin.co/geosite/category-tech-ir |
 | category-tech-media | https://surge.bojin.co/geosite/category-tech-media |
 | category-tech-media-ru | https://surge.bojin.co/geosite/category-tech-media-ru |
+| category-telemetry | https://surge.bojin.co/geosite/category-telemetry |
 | category-tm | https://surge.bojin.co/geosite/category-tm |
 | category-travel-ir | https://surge.bojin.co/geosite/category-travel-ir |
 | category-travel-ru | https://surge.bojin.co/geosite/category-travel-ru |
@@ -1191,6 +1193,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | sankei | https://surge.bojin.co/geosite/sankei |
 | sb | https://surge.bojin.co/geosite/sb |
 | sber | https://surge.bojin.co/geosite/sber |
+| sberbank | https://surge.bojin.co/geosite/sberbank |
 | scala | https://surge.bojin.co/geosite/scala |
 | scaleflex | https://surge.bojin.co/geosite/scaleflex |
 | scenesource | https://surge.bojin.co/geosite/scenesource |
