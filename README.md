@@ -276,6 +276,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | category-entertainment-cn | https://surge.bojin.co/geosite/category-entertainment-cn |
 | category-entertainment-ru | https://surge.bojin.co/geosite/category-entertainment-ru |
 | category-finance | https://surge.bojin.co/geosite/category-finance |
+| category-flight-simulator | https://surge.bojin.co/geosite/category-flight-simulator |
 | category-food-cn | https://surge.bojin.co/geosite/category-food-cn |
 | category-forums | https://surge.bojin.co/geosite/category-forums |
 | category-forums-ir | https://surge.bojin.co/geosite/category-forums-ir |
@@ -1423,6 +1424,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | vancl | https://surge.bojin.co/geosite/vancl |
 | vanish | https://surge.bojin.co/geosite/vanish |
 | vaptcha | https://surge.bojin.co/geosite/vaptcha |
+| vatsim | https://surge.bojin.co/geosite/vatsim |
 | veet | https://surge.bojin.co/geosite/veet |
 | vercel | https://surge.bojin.co/geosite/vercel |
 | verisign | https://surge.bojin.co/geosite/verisign |
