@@ -579,6 +579,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | flowus | https://surge.bojin.co/geosite/flowus |
 | flowwow | https://surge.bojin.co/geosite/flowwow |
 | flutter | https://surge.bojin.co/geosite/flutter |
+| fluxer | https://surge.bojin.co/geosite/fluxer |
 | flyio | https://surge.bojin.co/geosite/flyio |
 | focuschina | https://surge.bojin.co/geosite/focuschina |
 | fonbet | https://surge.bojin.co/geosite/fonbet |
