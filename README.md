@@ -499,6 +499,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | dropbox | https://surge.bojin.co/geosite/dropbox |
 | drweb | https://surge.bojin.co/geosite/drweb |
 | dslreports | https://surge.bojin.co/geosite/dslreports |
+| dsn-host | https://surge.bojin.co/geosite/dsn-host |
 | duckduckgo | https://surge.bojin.co/geosite/duckduckgo |
 | duitang | https://surge.bojin.co/geosite/duitang |
 | duolingo | https://surge.bojin.co/geosite/duolingo |
@@ -553,6 +554,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | falungong | https://surge.bojin.co/geosite/falungong |
 | familymart | https://surge.bojin.co/geosite/familymart |
 | fandom | https://surge.bojin.co/geosite/fandom |
+| fanfiction | https://surge.bojin.co/geosite/fanfiction |
 | fans66 | https://surge.bojin.co/geosite/fans66 |
 | fansta | https://surge.bojin.co/geosite/fansta |
 | farfetch | https://surge.bojin.co/geosite/farfetch |
