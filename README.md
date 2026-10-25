@@ -355,6 +355,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | cctv | https://surge.bojin.co/geosite/cctv |
 | cdek | https://surge.bojin.co/geosite/cdek |
 | cdn77 | https://surge.bojin.co/geosite/cdn77 |
+| cdprojekt | https://surge.bojin.co/geosite/cdprojekt |
 | ceno | https://surge.bojin.co/geosite/ceno |
 | cerebras | https://surge.bojin.co/geosite/cerebras |
 | cern | https://surge.bojin.co/geosite/cern |
