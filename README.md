@@ -862,6 +862,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | lianjia | https://surge.bojin.co/geosite/lianjia |
 | liberapay | https://surge.bojin.co/geosite/liberapay |
 | libgen | https://surge.bojin.co/geosite/libgen |
+| librewolf | https://surge.bojin.co/geosite/librewolf |
 | liepin | https://surge.bojin.co/geosite/liepin |
 | lifewire | https://surge.bojin.co/geosite/lifewire |
 | ligastavok | https://surge.bojin.co/geosite/ligastavok |
