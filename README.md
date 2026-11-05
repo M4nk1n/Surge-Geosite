@@ -1122,6 +1122,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | primevideo | https://surge.bojin.co/geosite/primevideo |
 | private | https://surge.bojin.co/geosite/private |
 | progress | https://surge.bojin.co/geosite/progress |
+| projectmoon | https://surge.bojin.co/geosite/projectmoon |
 | projectpoi | https://surge.bojin.co/geosite/projectpoi |
 | projectsekai | https://surge.bojin.co/geosite/projectsekai |
 | proquest | https://surge.bojin.co/geosite/proquest |
