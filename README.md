@@ -654,6 +654,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | googlefcm | https://surge.bojin.co/geosite/googlefcm |
 | goproxy | https://surge.bojin.co/geosite/goproxy |
 | gracg | https://surge.bojin.co/geosite/gracg |
+| grafanalabs | https://surge.bojin.co/geosite/grafanalabs |
 | grapheneos | https://surge.bojin.co/geosite/grapheneos |
 | gravatar | https://surge.bojin.co/geosite/gravatar |
 | greatfire | https://surge.bojin.co/geosite/greatfire |
