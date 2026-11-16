@@ -727,6 +727,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | hupun | https://surge.bojin.co/geosite/hupun |
 | hurricaneelectric | https://surge.bojin.co/geosite/hurricaneelectric |
 | huya | https://surge.bojin.co/geosite/huya |
+| hypergryph | https://surge.bojin.co/geosite/hypergryph |
 | ibkr | https://surge.bojin.co/geosite/ibkr |
 | ibm | https://surge.bojin.co/geosite/ibm |
 | icable | https://surge.bojin.co/geosite/icable |
