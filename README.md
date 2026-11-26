@@ -1388,6 +1388,7 @@ This conversion ensures real-time updates and compatibility with Surge configura
 | trackernetwork | https://surge.bojin.co/geosite/trackernetwork |
 | trae | https://surge.bojin.co/geosite/trae |
 | translatewiki | https://surge.bojin.co/geosite/translatewiki |
+| transtelecom | https://surge.bojin.co/geosite/transtelecom |
 | trello | https://surge.bojin.co/geosite/trello |
 | trustasia | https://surge.bojin.co/geosite/trustasia |
 | trustwallet | https://surge.bojin.co/geosite/trustwallet |
